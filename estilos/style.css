@@ -29,15 +29,15 @@ section#telefone {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: url('../imagens/frame-iphone-200vw.png') no-repeat
+    background: url('../imagens/frame-iphone-100vw.png') no-repeat
 }
 
 iframe#tela{
     position: relative;
-    top: 52px;
-    left: 15px;
-    height: 302px;
-    width: 170px;
+    top: 26px;
+    left: 7px;
+    height: 152px;
+    width: 87px;
 }
 
 section#redes-sociais {
