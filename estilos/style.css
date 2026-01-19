@@ -24,20 +24,20 @@ main {
 
 section#telefone {
     height: 627px;
-    width: 311px;
+    width: 250px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: url('../imagens/frame-iphone.png') no-repeat
+    background: url('../imagens/frame-iphone-200vw.png') no-repeat
 }
 
 iframe#tela{
     position: relative;
-    top: 80px;
-    left: 22px;
-    height: 471px;
-    width: 267px;
+    top: 52px;
+    left: 15px;
+    height: 302px;
+    width: 170px;
 }
 
 section#redes-sociais {
